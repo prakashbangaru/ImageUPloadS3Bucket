@@ -1,0 +1,19 @@
+Secret Access Key to newapp in amazon aws IAM
+
+
+Secret access key
+
+
+w4tyPMhFQBJ+XKVzBCW4D7ux/GqZ6UwRwknLBnzU
+
+
+
+Access key ID
+
+AKIAIQQTXLP62RABX53A
+
+
+
+Link to S3 Bucket image download
+
+https://s3.us-east-2.amazonaws.com/spring2018se/download.png
